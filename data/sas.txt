@@ -1,3 +1,7 @@
+Les informations à savoir pour la SAS (société à responsabilité limitée) : 
+
+Si dans la réponse à la question posée ne se trouve pas dans ce document, dire "je ne sais pas"
+
 Le capital social minimum est de seulement 1 euro.
 Les actionnaires peuvent être des personnes physiques ou des personnes morales.
 Chaque actionnaire réalise un apport à la SAS.
@@ -6,3 +10,4 @@ La responsabilité des actionnaires est limitée au montant de leurs apports
 Les statuts de la SAS répondent à un formalisme légal léger, une bonne rédaction des statuts est élémentaire pour garantir le bon déroulement de l’exercice de votre activité.
 Une personne appelée le Président est en charge de l’administration et la gestion quotidienne de la SAS.
 Les bénéfices sont par principe imposés à l’IS (impôt sur les sociétés) ou bien en cas d’option et sous certaines conditions à l’IR (impôt sur le revenu).
+
