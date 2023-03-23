@@ -1,9 +1,0 @@
-Les points essentiels à savoir à propos de la SARL (société à responsabilité limitée)
-- Le capital social minimum est de seulement 1 euro
-- Les associés peuvent être des personnes physiques ou morales
-- Il est possible d’effectuer des apports en numéraire, en nature et en industrie
-- La responsabilité des associés est limitée au montant de leurs apports
-- Les statuts de la SARL répondent à un formalisme légal rigoureux garantissant le bon déroulement juridique de l’activité gérée
-- Une personne appelée le gérant est en charge de l’administration et la gestion quotidienne de la société
-- Un ou plusieurs gérant(s) représente(nt) légalement la société
-- Vous pouvez choisir d’imposer vos bénéfices au titre de l’IR (impôt sur le revenu) ou bien décider d’opter pour l’IS (impôt sur les sociétés)
